@@ -1,5 +1,8 @@
 # YII2-mathCaptcha
 
+验证码demo
+![Пример](https://github.com/linziyi0509/YII2-mathCaptcha/blob/master/captcha.png)
+
 直接安装
 ```
 php composer.phar require --prefer-dist math/MathCaptcha "*"
